@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{60e67074-54d5-4833-844e-cc83d74ac784}">
+        <property name="assetPath">
+            <value>SFX/Events/Inverted controls/Event_Confusion12.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.49202083333333335</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5b989461-f9ac-41c0-b8ed-9744a3e3a719}</destination>
+        </relationship>
+    </object>
+</objects>

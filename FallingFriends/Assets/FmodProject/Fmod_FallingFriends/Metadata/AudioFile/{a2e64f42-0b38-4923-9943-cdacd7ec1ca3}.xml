@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{a2e64f42-0b38-4923-9943-cdacd7ec1ca3}">
+        <property name="assetPath">
+            <value>SFX/Music/Easy Difficulty/Chase MENU LOOP.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>21.333356009070293</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{5b989461-f9ac-41c0-b8ed-9744a3e3a719}</destination>
+        </relationship>
+    </object>
+</objects>

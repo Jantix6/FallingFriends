@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EventFolder" id="{1a0c038c-1c2f-47fe-918e-58d9fe7c07b4}">
+        <property name="name">
+            <value>Inverted controls</value>
+        </property>
+        <relationship name="folder">
+            <destination>{d146e92a-5983-4ac7-b852-158abd3a0a3f}</destination>
+        </relationship>
+    </object>
+</objects>
